@@ -7,7 +7,6 @@ allright
 
 Let's make a list:
 
-*
- Install R
+* Install R
 * Install R-studio
 * Install git
