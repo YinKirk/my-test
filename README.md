@@ -10,3 +10,4 @@ Let's make a list:
 * Install R
 * Install R-studio
 * Install git
+* Intsall R-tools
